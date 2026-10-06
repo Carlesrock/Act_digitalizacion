@@ -1,0 +1,44 @@
+*{
+
+    
+}
+
+
+body{
+    background-color: antiquewhite;
+
+}
+
+header{
+    margin-bottom: 20px;
+    padding: 10px;
+    border-bottom: 2px solid red ;
+
+}
+
+h1{
+    margin-bottom: 10px;
+}
+
+
+a{
+    padding: 10px;
+    text-decoration: none;
+    color:black;
+}
+
+ul{
+    list-style: none;
+    padding-left: 0;
+    text-decoration: underline;
+}
+
+
+.activities{
+    text-align: center;
+    margin-top: 60px;
+}
+
+.activities h2{
+
+}
