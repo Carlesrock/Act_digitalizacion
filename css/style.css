@@ -42,3 +42,18 @@ ul{
 .activities h2{
 
 }
+
+#klk{
+    padding: 5px;
+}
+
+
+li{
+    padding: 5px;
+}
+
+#klk:hover{
+    background-color: white;
+    border-radius: 10px;
+
+}
